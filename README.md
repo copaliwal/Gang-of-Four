@@ -8,6 +8,7 @@ Creational patterns deal with object creation mechanisms, trying to create objec
 
 -   **[Factory Method](/1.1%20Factory%20Method.md)**: Defines an interface for creating objects but allows subclasses to alter the type of objects that will be created.
 -   **[Abstract Factory](1.2%20Abstract%20Factory.md)**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+    - Difference between [Abstract Factory vs Factory method](1.2.1%20Abstract%20Factory%20vs%20Factory%20method.md)
 -   **Builder**: Separates the construction of a complex object from its representation so that the same construction process can create different representations.
 -   **Prototype**: Creates new objects by copying an existing object, known as the prototype.
 -   **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
