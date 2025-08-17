@@ -2,10 +2,7 @@
 
 [**1\. Design Patterns**](./design-patterns/README.md)
 
-[**2\. Architectural Patterns**](./architectural-patterns/Gang of Four.md.md)  
-  
-  
- 
+[**2\. Architectural Patterns**](./architectural-patterns/gang-of-four.md.md)
 
 # Design Patterns & Architectural Patterns
 
