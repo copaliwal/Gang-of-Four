@@ -1,8 +1,8 @@
 # Types of Design Patterns & Architectural Patterns
 
-## [**1\. Design Patterns**](./design-patterns/README.md)
+[**1\. Design Patterns**](./design-patterns/README.md)
 
-## [**2\. Architectural Patterns**](./architectural-patterns/architectural-patterns.md)  
+[**2\. Architectural Patterns**](./architectural-patterns/architectural-patterns.md)  
   
   
  
