@@ -1,4 +1,4 @@
-# Landscape of Architectural Patterns
+# Architectural Patterns
 
 ## 1\. Monolithic & Layered Patterns
 
