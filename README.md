@@ -1,10 +1,13 @@
-# Design Patterns vs Architectural Patterns
+# Types of Design Patterns & Architectural Patterns
 
 ## [**1\. Design Patterns**](./design-patterns/README.md)
 
-## [**2\. Architectural Patterns**](./architectural-patterns/architectural-patterns.md)
+## [**2\. Architectural Patterns**](./architectural-patterns/architectural-patterns.md)  
+  
+  
+ 
 
-# Difference
+# Design Patterns & Architectural Patterns
 
 | Aspect | Design Patterns | Architectural Patterns |
 | --- | --- | --- |
