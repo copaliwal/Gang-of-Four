@@ -15,12 +15,7 @@ These deal with object creation mechanisms.
 | --- | --- | --- |
 | **Singleton** | Ensures a class has only one instance | Logging, configuration, caching |
 | [**Factory Method**](/1.1%20Factory%20Method.md) | Creates objects without specifying exact class | Dependency injection, extensibility |
-| [**Abstract Factory**](1.2%20Abstract%20Factory.md) | 
-Creates families of related objects
-
-Difference between [Abstract Factory vs Factory method](1.2.1%20Abstract%20Factory%20vs%20Factory%20method.md)
-
- | UI themes, cross-platform toolkits |
+| [**Abstract Factory**](1.2%20Abstract%20Factory.md) | Creates families of related objects - Difference between [Abstract Factory vs Factory method](1.2.1%20Abstract%20Factory%20vs%20Factory%20method.md) | UI themes, cross-platform toolkits |
 | **Builder** | Constructs complex objects step-by-step | Fluent APIs, configuration builders |
 | **Prototype** | Clone existing objects instead of creating new ones | Object copying, undo functionality |
 
