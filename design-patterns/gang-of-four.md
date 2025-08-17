@@ -1,4 +1,4 @@
-# Gang-of-Four
+# Design Pattern - Gang of Four (GoF)
 
 The **Gang of Four (GoF)** refers to four authors (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides) who wrote the famous book _“Design Patterns: Elements of Reusable Object-Oriented Software”_.
 
