@@ -27,7 +27,7 @@ These help compose classes and objects.
 
 | Pattern | Description | Common Use Case |
 | --- | --- | --- |
-| [**Adapter**](software-architecture-learning\04-design-patterns\2. structural-patterns\1-adapter.md) | Converts one interface to another, make incompatible classes work together | Legacy integration |
+| [**Adapter**](software-architecture-learning%5C04-design-patterns%5C2-structural-patterns%5C1-adapter.md) | Converts one interface to another, make incompatible classes work together | Legacy integration |
 | **Bridge** | Decouples abstraction from implementation | UI rendering, device drivers |
 | **Composite** | Tree structures where individual & groups are treated the same | Tree structures, menus |
 | **Decorator** | Adds behavior dynamically | Logging, validation, caching |
