@@ -13,11 +13,11 @@ These deal with object creation mechanisms.
 
 | Pattern | Description | Common Use Case |
 | --- | --- | --- |
-| **Singleton** | Ensures a class has only one instance | Logging, configuration, caching |
-| Factory Method | Creates objects without specifying exact class | Dependency injection, extensibility |
-| [**Abstract Factory**](1.2%20Abstract%20Factory.md) | Creates families of related objects - Difference between [Abstract Factory vs Factory method](1.2.1%20Abstract%20Factory%20vs%20Factory%20method.md) | UI themes, cross-platform toolkits |
-| **Builder** | Constructs complex objects step-by-step | Fluent APIs, configuration builders |
-| **Prototype** | Clone existing objects instead of creating new ones | Object copying, undo functionality |
+| [**Singleton**](1-creational-patterns/5-singleton.md) | Ensures a class has only one instance | Logging, configuration, caching |
+| [**Factory Method**](1-creational-patterns/1-factory-method.md) | Creates objects without specifying exact class | Dependency injection, extensibility |
+| [**Abstract Factory**](1-creational-patterns/2-abstract-factory.md) | Creates families of related objects - Difference between [Abstract Factory vs Factory method](1-creational-patterns/2.1-abstractfactory-vs-factory-method.md) | UI themes, cross-platform toolkits |
+| [**Builder**](1-creational-patterns/3-builder-pattern.md) | Constructs complex objects step-by-step | Fluent APIs, configuration builders |
+| [**Prototype**](1-creational-patterns/4-prototype.md) | Clone existing objects instead of creating new ones | Object copying, undo functionality |
 
 ## 2\. **Structural Patterns - (How objects/classes are composed)**
 
@@ -27,7 +27,7 @@ These help compose classes and objects.
 
 | Pattern | Description | Common Use Case |
 | --- | --- | --- |
-| [**Adapter**](software-architecture-learning%5C04-design-patterns%5C2-structural-patterns%5C1-adapter.md) | Converts one interface to another, make incompatible classes work together | Legacy integration |
+| [**Adapter**](2-structural-patterns/1-adapter.md) | Converts one interface to another, make incompatible classes work together | Legacy integration |
 | **Bridge** | Decouples abstraction from implementation | UI rendering, device drivers |
 | **Composite** | Tree structures where individual & groups are treated the same | Tree structures, menus |
 | **Decorator** | Adds behavior dynamically | Logging, validation, caching |
