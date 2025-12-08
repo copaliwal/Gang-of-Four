@@ -149,3 +149,36 @@ These patterns optimize data access, consistency, and scalability.
 | **Caching Layers** | Use cache (e.g., Redis) to boost performance; often paired with CQRS. |
 
 > These patterns are essential in **Microservices**, **CQRS**, and **Event Sourcing** contexts.
+
+# TODO Update/merge below content
+
+### Integration Patterns
+
+*   **API Gateway:** Single entry point for clients. Example: Azure API Management.
+*   **Event Sourcing:** Store events instead of state. Example: Order history logs.
+*   **Message Broker:** Decouple services via messaging. Example: Azure Service Bus.
+
+### Data Patterns
+
+*   **CQRS:** Separate read/write models. Example: Queries via SQL, commands via events.
+*   **Repository:** Abstract data access. Example: EF Core repository layer.
+*   **Unit of Work:** Manage transactions across repositories.
+
+### Cloud Patterns
+
+*   **Circuit Breaker:** Prevent cascading failures. Example: Polly in .NET.
+*   **Retry:** Automatic retries on transient errors.
+*   **Autoscaling:** Scale services based on load. Example: Azure App Service autoscale.
+*   **Sharding:** Split database horizontally. Example: Cosmos DB partitions.
+
+# Design Patterns & Architectural Patterns
+
+| Aspect | Design Patterns | Architectural Patterns |
+| --- | --- | --- |
+|   | The **details inside components** (class/object interactions) | The **big picture** (system structure) |
+| **Level of abstraction** | Low-level (class, object, module) | High-level (system, application, enterprise) |
+| **Scope** | Solves programming/design issues | Solves architectural/system issues |
+| **Focus** | Code reuse, flexibility, maintainability | System organization, scalability, performance |
+| **Change impact** | Easier to refactor if wrong | Harder/costly to change later |
+| **Concerns** | How classes interact & responsibilities | How components/subsystems are structured & interact |
+| **Examples** | GoF, Singleton, Factory, Observer, Strategy | Layered, Microservices, Client–Server, Event-Driven, CQRS |
